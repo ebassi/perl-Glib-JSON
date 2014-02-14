@@ -82,6 +82,16 @@ Glib::JSON - Perl interface to the JSON-GLib library
 
 =head1 DESCRIPTION
 
+Glib::JSON is a Perl module that provides access to the JSON-GLib library
+through introspection.
+
+Glib::JSON allows parsing and generating JSON documents through a simple,
+DOM-like API; it also provides cursor-based API to parse and generate JSON
+documents.
+
+Glib::JSON is integrated with the GLib and GObject data types, and can
+easily serialize and deserialize JSON data from and to GObject instances.
+
 =head1 SEE ALSO
 
 =over
