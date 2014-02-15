@@ -3,8 +3,10 @@ package Glib::JSON;
 use strict;
 use warnings;
 use Carp qw/croak/;
-use Glib::Object::Introspection;
 use Exporter;
+use Glib;
+use Glib::IO;
+use Glib::Object::Introspection 0.016;
 
 our @ISA = qw(Exporter);
 
