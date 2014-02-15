@@ -56,9 +56,6 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.
 
-See the LICENSE file in the top-level directory of this distribution for the
-full license terms.
-
 [0]: https://wiki.gnome.org/Projects/JsonGlib
 [1]: http://dzil.org/
 [perl-glib-git]: https://git.gnome.org/browse/perl-Glib
