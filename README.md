@@ -8,15 +8,16 @@ Glib::Object::Introspection module.
 
 ### Perl modules
 
- * Glib
- * Glib::Object::Introspection
- * Glib::IO
+ * [Glib][perl-glib-git]
+ * [Glib::Object::Introspection][perl-goi-git]
+ * [Glib::IO][perl-gio-git]
  * Test::Simple
 
 ### C libraries
 
- * GLib
- * JSON-GLib
+ * [GLib][glib-git]
+ * [JSON-GLib][json-glib-git]
+ * [GObject-Introspection][goi-git]
 
 ## Building Glib::JSON
 
@@ -25,7 +26,7 @@ of the Dist::Zilla Perl module installed and available.
 
 ### Cloning
 
-    $ git clone https://github.com/ebassi/perl-Glib-JSON
+    $ git clone https://github.com/ebassi/perl-Glib-JSON.git
     $ cd perl-Glib-JSON
 
 ### Building
@@ -60,3 +61,9 @@ full license terms.
 
 [0]: https://wiki.gnome.org/Projects/JsonGlib
 [1]: http://dzil.org/
+[perl-glib-git]: https://git.gnome.org/browse/perl-Glib
+[perl-goi-git]: https://git.gnome.org/browse/perl-Glib-Object-Introspection
+[perl-gio-git]: https://git.gnome.org/browse/perl-Glib-IO
+[glib-git]: https://git.gnome.org/browse/glib
+[json-glib-git]: https://git.gnome.org/browse/json-glib
+[goi-git]: https://git.gnome.org/browse/gobject-introspection
