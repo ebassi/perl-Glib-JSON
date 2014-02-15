@@ -1,2 +1,5 @@
 {{$NEXT}}
+
+## Overview of changes in Glib::JSON 0.001 [2014-02-15] ##
+
         initial release of Glib::JSON
